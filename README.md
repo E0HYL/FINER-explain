@@ -18,7 +18,7 @@ conda activate FINER
 All scripts can be found in `test/`. To run the experiments, use 
 
 ```shell
-python -m unit test/test_damd.py
-python -m unit test/test_deepreflect.py
-python -m unit test/test_vuldeepecker.py
+python -m unittest test/test_damd.py
+python -m unittest test/test_deepreflect.py
+python -m unittest test/test_vuldeepecker.py
 ```
