@@ -147,6 +147,6 @@ debug_*
 *_results*
 
 # temporary: before paper release
-*.py
+# *.py
 examples/damd/_data/X_*
 examples/damd/_data/background*
