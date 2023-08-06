@@ -1,6 +1,6 @@
 # FINER
 
-Data ( `examples/*/_data/`) and Code (to be released) for our CCS'23 paper.
+Code and Data for our CCS'23 paper (camera-ready version coming soon).
 
 ## Setup
 
