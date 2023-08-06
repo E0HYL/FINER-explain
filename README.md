@@ -1,10 +1,6 @@
 # FINER
 
-Data ( `examples/*/_data/`) and Code (to be released) for paper
-
-*FINER: Enhancing State-of-the-art Classifiers with Feature Attribution to Facilitate Security Analysis*
-
-> Code will be available when our paper is published.
+Data ( `examples/*/_data/`) and Code (to be released) for our CCS'23 paper.
 
 ## Setup
 

@@ -1,13 +1,3 @@
-#!/usr/bin/env python
-# -*- encoding: utf-8 -*-
-'''
-@File    :   finer_train.py
-@Time    :   2022/04/05 10:52:01
-Anonymous Submission
-@License :   (C)Copyright 2022
-@Desc    :   None
-'''
-
 import tensorflow as tf
 
 tf.config.run_functions_eagerly(True)

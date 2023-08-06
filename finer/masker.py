@@ -3,7 +3,9 @@
 '''
 @File    :   masker.py
 @Time    :   2022/05/04 13:41:24
-Anonymous Submission
+@Author  :   Yiling He
+@Version :   1.0
+@Contact :   heyilinge0@gmail.com
 @License :   (C)Copyright 2022
 @Desc    :   None
 '''

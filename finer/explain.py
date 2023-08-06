@@ -3,7 +3,9 @@
 '''
 @File    :   explain.py
 @Time    :   2022/04/11 14:57:38
-Anonymous Submission
+@Author  :   Yiling He
+@Version :   1.0
+@Contact :   heyilinge0@gmail.com
 @License :   (C)Copyright 2022
 @Desc    :   None
 '''
