@@ -17,7 +17,7 @@ This repository contains the code and data associated with our CCS'23 publicatio
 ## Setup
 
 ```shell
-conda env create --name FINER --file FINER.yaml
+conda env create --name FINER --file finer.yml
 conda activate FINER
 ```
 
